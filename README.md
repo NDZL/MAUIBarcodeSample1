@@ -1,0 +1,1 @@
+# MAUIBarcodeSample1
